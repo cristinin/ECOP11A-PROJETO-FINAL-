@@ -56,26 +56,26 @@ Desenvolver um sistema de **automação para câmara fria** de um restaurante, u
 
 ## 🧠 Fluxograma do Sistema
 
-![Fluxograma do Sistema](imagens/pagina_2.png)
+![Fluxograma do Sistema](img/pagina_2.png)
 
 ---
 
 ## 🔌 Esquemático do Circuito
 
-![Esquemático do Projeto](imagens/pagina_3.png)
+![Esquemático do Projeto](img/pagina_3.png)
 
 ---
 
 ## 📡 Conectividade com Adafruit IO
 
-![Adafruit - Monitoramento Remoto](imagens/pagina_4.png)
+![Adafruit - Monitoramento Remoto](img/pagina_4.png)
 
 ---
 
 ## ✅ Resultados
 
-![Protótipo Final - Parte 1](imagens/pagina_5.png)  
-![Protótipo Final - Parte 2](imagens/pagina_6.png)
+![Protótipo Final - Parte 1](img/pagina_5.png)  
+![Protótipo Final - Parte 2](img/pagina_6.png)
 
 ---
 
